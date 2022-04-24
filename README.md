@@ -21,3 +21,5 @@
 
 - Jackett with Sonarr and Radarr https://github.com/Jackett/Jackett
 
+- Zsh https://www.zsh.org/
+
