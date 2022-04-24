@@ -15,9 +15,9 @@
 
 - SearXNG https://github.com/searxng/searxng
 
-- pihole & pi-vpn
+- pihole & pi-vpn https://pi-hole.net/ || https://pivpn.io/
 
-- Nextcloud (Drive & Calendar)
+- Nextcloud (Drive & Calendar) https://nextcloud.com/
 
 - Jackett with Sonarr and Radarr https://github.com/Jackett/Jackett
 
