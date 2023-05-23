@@ -5,7 +5,7 @@
 
 - kitty https://sw.kovidgoyal.net/kitty/
 
-- Firefox & Librewolf https://librewolf.net/
+- Firefox https://www.mozilla.org/en-US/firefox/new/
 
 - GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI
 
