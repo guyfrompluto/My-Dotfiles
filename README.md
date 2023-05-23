@@ -9,7 +9,7 @@
 
 - GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI
 
-- Fedora 36 beta https://getfedora.org/
+- Fedora Workstation 38 https://getfedora.org/
 
 - dnscrypt-proxy (DoH) https://github.com/DNSCrypt/dnscrypt-proxy
 
